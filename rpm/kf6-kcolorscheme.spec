@@ -18,7 +18,7 @@ BuildRequires:  kf6-ki18n-devel
 BuildRequires:  qt6-qtdeclarative-devel
 BuildRequires:  qt6-qttools-devel
 BuildRequires:  pkgconfig(xkbcommon)
-
+BuildRequires:  qt6-qtbase-private-devel
 
 %description
 %summary.
