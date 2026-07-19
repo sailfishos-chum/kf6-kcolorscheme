@@ -1,7 +1,7 @@
 %global  kf_version 6.6.0
 
 Name:    kf6-kcolorscheme
-Version: 6.18.0
+Version: 6.28.0
 Release: 0%{?dist}
 Summary: Classes to read and interact with KColorScheme
 License: BSD-2-Clause and CC0-1.0 and LGPL-2.0-or-later and LGPL-2.1-only and LGPL-3.0-only and (LGPL-2.1-only OR LGPL-3.0-only)
